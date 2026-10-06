@@ -121,9 +121,9 @@ Também foram criados compartimentos (bins) sobre `Units Sold` para o histograma
 
 | Arquivo | Descrição |
 |---|---|
-| `Sales_Report_Expandido_-_UX.pbix` | Projeto completo do Power BI Desktop, com as 6 páginas |
-| `Sales_Report_Expandido_-_UX.pdf` | Exportação em PDF das 6 páginas do relatório |
-| `Sales_Report_Expandido_-_UX.pptx` | Apresentação com as 6 páginas (um slide por página) |
+| `Sales Report_Expandido - UX.pbix` | Projeto completo do Power BI Desktop, com as 6 páginas |
+| `Sales Report Expandido - UX.pdf` | Exportação em PDF das 6 páginas do relatório |
+| `Sales Report Expandido - UX.pptx` | Apresentação com as 6 páginas (um slide por página) |
 
 # Autor
 - Kelwin Paschoal
